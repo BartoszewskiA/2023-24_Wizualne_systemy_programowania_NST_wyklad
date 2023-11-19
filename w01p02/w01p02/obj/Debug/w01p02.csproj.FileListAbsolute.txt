@@ -1,0 +1,10 @@
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\bin\Debug\w01p02.exe.config
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\bin\Debug\w01p02.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\bin\Debug\w01p02.pdb
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.Form1.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.Properties.Resources.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_systemy_programowania_NST_w\w01p02\w01p02\obj\Debug\w01p02.pdb
